@@ -86,13 +86,6 @@ src/
 - [ ] 黑暗模式
 - [ ] 更多支付方式
 
-## 🤝 贡献指南
-
-1. Fork 本项目
-2. 创建新分支 `git checkout -b feature/AmazingFeature`
-3. 提交更改 `git commit -m 'Add some AmazingFeature'`
-4. 推送到分支 `git push origin feature/AmazingFeature`
-5. 提交 Pull Request
 
 ## 📄 许可证
 
@@ -100,9 +93,9 @@ src/
 
 ## 👥 联系我们
 
-- 📧 Email: your.email@example.com
-- 💬 微信: your_wechat
-- 🌐 网站: https://your-website.com
+- 📧 Email: meiko_ooo@163.com
+- 💬 微信: -
+- 🌐 网站: -
 
 ## 🙏 鸣谢
 
